@@ -10,8 +10,7 @@ Este projeto é uma aplicação web em Java usando o Spring Framework, com o obj
 - **Editar Pessoa** ✏️: Atualize as informações de uma pessoa existente.
 - **Deletar Pessoa** 🗑️: Remova uma pessoa do sistema.
 
-![image](https://github.com/user-attachments/assets/c86997a4-8792-49ab-a444-c385980ada47)
-
+![image](https://github.com/user-attachments/assets/5f24dec3-981c-4e4e-9ff6-2feb08d6eec5)
 
 ## Estrutura do Projeto 📁
 
