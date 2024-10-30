@@ -10,7 +10,8 @@ Este projeto é uma aplicação web em Java usando o Spring Framework, com o obj
 - **Editar Pessoa** ✏️: Atualize as informações de uma pessoa existente.
 - **Deletar Pessoa** 🗑️: Remova uma pessoa do sistema.
 
-![image](https://github.com/user-attachments/assets/5f24dec3-981c-4e4e-9ff6-2feb08d6eec5)
+![image](https://github.com/user-attachments/assets/db6eda2b-5aff-450d-93a8-5374286d0b78)
+
 
 ## Estrutura do Projeto 📁
 
@@ -18,7 +19,8 @@ Este projeto é uma aplicação web em Java usando o Spring Framework, com o obj
 - **Model**: A classe `Pessoa` representa o modelo de dados de uma pessoa, com os campos `id`, `nome` e `cpf`.
 - **Interface Repository**: `PessoaRepository` é a interface que permite o acesso e manipulação dos dados no banco de dados.
 
-![image](https://github.com/user-attachments/assets/38d5a925-94dd-4a12-b053-4a72af9f780c)
+
+![image](https://github.com/user-attachments/assets/5f24dec3-981c-4e4e-9ff6-2feb08d6eec5)
 
 
 ## Views HTML 🌐
